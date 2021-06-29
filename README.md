@@ -1,5 +1,3 @@
-
-@@ -1,8 +1,8 @@
 # Hey, I'm TechnoBrat :wave:
 I'm a Materials Sciences Engineer turned Data Scientist with own Business consulting firm. 
 The company's website is :<a href="https://www.lfconsulting.tech">LF Consulting LLC </a> We provide Analytics & Statistical Methods solutions for companies. 
