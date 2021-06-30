@@ -4,7 +4,7 @@ I'm a Materials Sciences Engineer turned Data Scientist with over 10 yrs experie
 
 Firstly we must acknowledging all models are wrong, while striving to search for the useful ones.
 
-MY company's website is <a href="https://www.lfconsulting.tech">LF Consulting LLC </a> We provide Analytics & Statistical Methods solutions for companies. 
+My company's website is <a href="https://www.lfconsulting.tech">LF Consulting LLC </a>, we provide Analytics & Statistical Methods solutions for companies, helping to bridge the gap between the software/tools used by employees and the information generated for useful insight. 
 
 We are mostly focused on the Supply Chain industry, consulting on transportation and logistics planning for businesses trying to get onboard with the Industry 4.0.
 
